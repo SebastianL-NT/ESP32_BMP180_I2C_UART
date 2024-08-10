@@ -1,7 +1,7 @@
 # ESP32_BMP180_I2C_UART
 This project is for ESP32 Lolin32 lite board or clone of it.
 
-It is program to read data from BMP180 sensor via I2C and send it through UART.
+It is program to read data from BMP180 sensor via I2C and send it through UART. It is build on old I2C driver - new doesn't want to work with my board.
 
 Temperature is tested and seems to be working, but I have probably defective sensor so cant check pressure measurments.
 
